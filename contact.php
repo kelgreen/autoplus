@@ -112,6 +112,7 @@ if ($en_post) {
                                 <br>
 
                             </div>
+                            <!-- sim -->
                             <div>
                                 <label for="email">Courriel</label><?php
                                 if ($en_post && !$validation['email']['is_valid']) {
